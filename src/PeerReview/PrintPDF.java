@@ -6,23 +6,41 @@ import org.apache.pdfbox.text.PDFTextStripperByArea;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.List;
+import java.util.ArrayList;
 
 public class PrintPDF {
-	private String folder;
+	private File folder;
 	private int iterNum;
 	
 	PrintPDF(String foldername, int docnum) {
-		this.folder = foldername;
+		this.folder = new File(foldername);
 		this.iterNum = docnum;
+		return;
 	}
 	
-	public static void main(String[] args) {
-		System.out.println("Test");
-	}
-	
-	public String getText(String arg) throws IOException {
+	public List<String> readPapers() {
+		// Iterates through folder and reads pdfs
+		List<String> texts = new ArrayList<String>();
+		System.out.println("Test 2");
 		try {
-			PDDocument document = PDDocument.load(new File(arg));
+			System.out.println(folder);
+			File[] directoryListing = folder.listFiles();
+			if (directoryListing != null) {
+				for (File child : directoryListing) {
+					texts.add(getText(child));
+				}
+			}
+		} catch(Exception e) {
+			System.out.println(e.getMessage());
+			texts.add("null");
+		}
+		return texts;
+	}
+	
+	private String getText(File paper) throws IOException {
+		try {
+			PDDocument document = PDDocument.load(paper);
 
             document.getClass();
             System.out.println("Test");
@@ -52,5 +70,10 @@ public class PrintPDF {
 			System.out.println(e.getMessage());
 			return e.getMessage();
 		}
+	}
+	
+	public static void main(String[] args) {
+		//System.out.println("Test");
+		return;
 	}
 }

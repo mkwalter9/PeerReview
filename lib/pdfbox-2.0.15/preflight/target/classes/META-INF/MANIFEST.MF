@@ -1,0 +1,113 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1559151204137
+Build-Jdk: 1.8.0_162
+Built-By: margaretwalter
+Bundle-Description: The Apache Preflight library is an open source Java 
+ tool that implements       a parser compliant with the ISO-19005 (PDF/A
+ ) specification. Preflight is a       subproject of Apache PDFBox.
+Bundle-DocURL: http://pdfbox.apache.org
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache Preflight
+Bundle-SymbolicName: org.apache.pdfbox.preflight
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 2.0.15
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apache.pdfbox.preflight;version="2.0.15";uses:="java
+ x.activation,javax.xml.parsers,javax.xml.transform,org.apache.pdfbox.co
+ s,org.apache.pdfbox.pdfparser,org.apache.pdfbox.pdmodel,org.apache.pdfb
+ ox.pdmodel.common,org.apache.pdfbox.preflight.action,org.apache.pdfbox.
+ preflight.annotation,org.apache.pdfbox.preflight.exception,org.apache.p
+ dfbox.preflight.font.container,org.apache.pdfbox.preflight.graphic,org.
+ apache.pdfbox.preflight.process,org.apache.xmpbox",org.apache.pdfbox.pr
+ eflight.xobject;version="2.0.15";uses:="org.apache.pdfbox.cos,org.apach
+ e.pdfbox.pdmodel.graphics,org.apache.pdfbox.pdmodel.graphics.form,org.a
+ pache.pdfbox.pdmodel.graphics.image,org.apache.pdfbox.preflight,org.apa
+ che.pdfbox.preflight.exception",org.apache.pdfbox.preflight.content;ver
+ sion="2.0.15";uses:="org.apache.pdfbox.contentstream,org.apache.pdfbox.
+ contentstream.operator,org.apache.pdfbox.cos,org.apache.pdfbox.pdmodel,
+ org.apache.pdfbox.pdmodel.graphics.form,org.apache.pdfbox.pdmodel.graph
+ ics.pattern,org.apache.pdfbox.preflight,org.apache.pdfbox.preflight.exc
+ eption",org.apache.pdfbox.preflight.annotation;version="2.0.15";uses:="
+ org.apache.pdfbox.cos,org.apache.pdfbox.pdmodel.interactive.annotation,
+ org.apache.pdfbox.preflight,org.apache.pdfbox.preflight.action,org.apac
+ he.pdfbox.preflight.exception",org.apache.pdfbox.preflight.annotation.p
+ dfa;version="2.0.15";uses:="org.apache.pdfbox.preflight.annotation",org
+ .apache.pdfbox.preflight.utils;version="2.0.15";uses:="javax.activation
+ ,org.apache.pdfbox.cos,org.apache.pdfbox.pdmodel,org.apache.pdfbox.pref
+ light,org.apache.pdfbox.preflight.exception",org.apache.pdfbox.prefligh
+ t.parser;version="2.0.15";uses:="javax.activation,org.apache.pdfbox.cos
+ ,org.apache.pdfbox.io,org.apache.pdfbox.pdfparser,org.apache.pdfbox.pdm
+ odel,org.apache.pdfbox.preflight,org.w3c.dom",org.apache.pdfbox.preflig
+ ht.graphic;version="2.0.15";uses:="org.apache.pdfbox.pdmodel.graphics.c
+ olor,org.apache.pdfbox.preflight,org.apache.pdfbox.preflight.exception"
+ ,org.apache.pdfbox.preflight.action;version="2.0.15";uses:="org.apache.
+ pdfbox.cos,org.apache.pdfbox.preflight,org.apache.pdfbox.preflight.exce
+ ption",org.apache.pdfbox.preflight.font;version="2.0.15";uses:="org.apa
+ che.pdfbox.cos,org.apache.pdfbox.pdmodel.font,org.apache.pdfbox.preflig
+ ht,org.apache.pdfbox.preflight.exception,org.apache.pdfbox.preflight.fo
+ nt.container,org.apache.pdfbox.preflight.font.descriptor",org.apache.pd
+ fbox.preflight.font.util;version="2.0.15";uses:="org.apache.pdfbox.cont
+ entstream.operator,org.apache.pdfbox.cos,org.apache.pdfbox.pdmodel,org.
+ apache.pdfbox.pdmodel.font,org.apache.pdfbox.preflight,org.apache.pdfbo
+ x.preflight.content,org.apache.pdfbox.preflight.exception,org.apache.xm
+ pbox",org.apache.pdfbox.preflight.font.container;version="2.0.15";uses:
+ ="org.apache.pdfbox.pdmodel.font,org.apache.pdfbox.preflight,org.apache
+ .pdfbox.preflight.font.util",org.apache.pdfbox.preflight.font.descripto
+ r;version="2.0.15";uses:="org.apache.pdfbox.cos,org.apache.pdfbox.pdmod
+ el.common,org.apache.pdfbox.pdmodel.font,org.apache.pdfbox.preflight,or
+ g.apache.pdfbox.preflight.font.container",org.apache.pdfbox.preflight.e
+ xception;version="2.0.15";uses:="org.apache.pdfbox.preflight",org.apach
+ e.pdfbox.preflight.metadata;version="2.0.15";uses:="org.apache.pdfbox.p
+ dmodel,org.apache.pdfbox.preflight,org.apache.pdfbox.preflight.exceptio
+ n,org.apache.xmpbox,org.apache.xmpbox.schema",org.apache.pdfbox.preflig
+ ht.process;version="2.0.15";uses:="org.apache.pdfbox.cos,org.apache.pdf
+ box.pdmodel,org.apache.pdfbox.pdmodel.interactive.annotation,org.apache
+ .pdfbox.pdmodel.interactive.documentnavigation.outline,org.apache.pdfbo
+ x.pdmodel.interactive.form,org.apache.pdfbox.preflight,org.apache.pdfbo
+ x.preflight.exception",org.apache.pdfbox.preflight.process.reflect;vers
+ ion="2.0.15";uses:="org.apache.pdfbox.cos,org.apache.pdfbox.pdmodel,org
+ .apache.pdfbox.pdmodel.font,org.apache.pdfbox.pdmodel.graphics.pattern,
+ org.apache.pdfbox.pdmodel.graphics.shading,org.apache.pdfbox.preflight,
+ org.apache.pdfbox.preflight.exception,org.apache.pdfbox.preflight.font,
+ org.apache.pdfbox.preflight.font.container,org.apache.pdfbox.preflight.
+ process"
+Implementation-Title: Apache Preflight
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: org.apache.pdfbox
+Implementation-Version: 2.0.15
+Import-Package: javax.activation,javax.imageio,javax.xml.bind,javax.xml.
+ parsers,javax.xml.transform,javax.xml.transform.dom,javax.xml.transform
+ .stream,org.apache.commons.logging;version="[1.2,2)",org.apache.fontbox
+ ;version="[2.0,3)",org.apache.fontbox.cmap;version="[2.0,3)",org.apache
+ .fontbox.ttf;version="[2.0,3)",org.apache.fontbox.util;version="[2.0,3)
+ ",org.apache.pdfbox.contentstream;version="[2.0,3)",org.apache.pdfbox.c
+ ontentstream.operator;version="[2.0,3)",org.apache.pdfbox.contentstream
+ .operator.color;version="[2.0,3)",org.apache.pdfbox.contentstream.opera
+ tor.state;version="[2.0,3)",org.apache.pdfbox.contentstream.operator.te
+ xt;version="[2.0,3)",org.apache.pdfbox.cos;version="[2.0,3)",org.apache
+ .pdfbox.io;version="[2.0,3)",org.apache.pdfbox.pdfparser;version="[2.0,
+ 3)",org.apache.pdfbox.pdmodel;version="[2.0,3)",org.apache.pdfbox.pdmod
+ el.common;version="[2.0,3)",org.apache.pdfbox.pdmodel.encryption;versio
+ n="[2.0,3)",org.apache.pdfbox.pdmodel.font;version="[2.0,3)",org.apache
+ .pdfbox.pdmodel.font.encoding;version="[2.0,3)",org.apache.pdfbox.pdmod
+ el.graphics;version="[2.0,3)",org.apache.pdfbox.pdmodel.graphics.color;
+ version="[2.0,3)",org.apache.pdfbox.pdmodel.graphics.form;version="[2.0
+ ,3)",org.apache.pdfbox.pdmodel.graphics.image;version="[2.0,3)",org.apa
+ che.pdfbox.pdmodel.graphics.optionalcontent;version="[2.0,3)",org.apach
+ e.pdfbox.pdmodel.graphics.pattern;version="[2.0,3)",org.apache.pdfbox.p
+ dmodel.graphics.shading;version="[2.0,3)",org.apache.pdfbox.pdmodel.gra
+ phics.state;version="[2.0,3)",org.apache.pdfbox.pdmodel.interactive.act
+ ion;version="[2.0,3)",org.apache.pdfbox.pdmodel.interactive.annotation;
+ version="[2.0,3)",org.apache.pdfbox.pdmodel.interactive.documentnavigat
+ ion.destination;version="[2.0,3)",org.apache.pdfbox.pdmodel.interactive
+ .documentnavigation.outline;version="[2.0,3)",org.apache.pdfbox.pdmodel
+ .interactive.form;version="[2.0,3)",org.apache.pdfbox.util;version="[2.
+ 0,3)",org.apache.xmpbox;version="[2.0,3)",org.apache.xmpbox.schema;vers
+ ion="[2.0,3)",org.apache.xmpbox.type;version="[2.0,3)",org.apache.xmpbo
+ x.xml;version="[2.0,3)",org.w3c.dom
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Specification-Title: Apache Preflight
+Specification-Vendor: The Apache Software Foundation
+Specification-Version: 2.0.15
+Tool: Bnd-2.4.1.201501161923

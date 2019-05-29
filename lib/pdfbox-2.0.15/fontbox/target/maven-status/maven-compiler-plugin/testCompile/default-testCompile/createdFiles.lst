@@ -1,0 +1,10 @@
+org/apache/fontbox/afm/AFMParserTest.class
+org/apache/fontbox/ttf/BufferedRandomAccessFileTest.class
+org/apache/fontbox/ttf/TTFSubsetterTest.class
+org/apache/fontbox/cmap/TestCMap.class
+org/apache/fontbox/cff/Type1FontUtilTest.class
+org/apache/fontbox/ttf/TestTTFParser.class
+org/apache/fontbox/ttf/RAFDataStreamTest.class
+org/apache/fontbox/cmap/TestCMapParser.class
+org/apache/fontbox/cff/CFFParserTest.class
+org/apache/fontbox/ttf/TestMemoryTTFDataStream.class

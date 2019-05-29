@@ -1,0 +1,846 @@
+May 29, 2019 1:32:03 PM org.apache.pdfbox.encryption.TestSymmetricKeyEncryption extractEmbeddedFile
+INFO: Processing embedded file 48.rcpt.pdf:
+May 29, 2019 1:32:03 PM org.apache.pdfbox.encryption.TestSymmetricKeyEncryption extractEmbeddedFile
+INFO:   size: 57501
+May 29, 2019 1:32:03 PM org.apache.pdfbox.pdmodel.PDDocument protect
+WARNING: do not call setAllSecurityToBeRemoved(true) before calling protect(), as protect() implies setAllSecurityToBeRemoved(false)
+May 29, 2019 1:32:03 PM org.apache.pdfbox.encryption.TestSymmetricKeyEncryption extractEmbeddedFile
+INFO: Processing embedded file 48.rcpt.pdf:
+May 29, 2019 1:32:03 PM org.apache.pdfbox.encryption.TestSymmetricKeyEncryption extractEmbeddedFile
+INFO:   size: 57501
+May 29, 2019 1:32:03 PM org.apache.pdfbox.pdmodel.PDDocument protect
+WARNING: do not call setAllSecurityToBeRemoved(true) before calling protect(), as protect() implies setAllSecurityToBeRemoved(false)
+May 29, 2019 1:32:03 PM org.apache.pdfbox.encryption.TestSymmetricKeyEncryption extractEmbeddedFile
+INFO: Processing embedded file 48.rcpt.pdf:
+May 29, 2019 1:32:03 PM org.apache.pdfbox.encryption.TestSymmetricKeyEncryption extractEmbeddedFile
+INFO:   size: 57501
+May 29, 2019 1:32:03 PM org.apache.pdfbox.pdmodel.PDDocument protect
+WARNING: do not call setAllSecurityToBeRemoved(true) before calling protect(), as protect() implies setAllSecurityToBeRemoved(false)
+May 29, 2019 1:32:03 PM org.apache.pdfbox.encryption.TestSymmetricKeyEncryption extractEmbeddedFile
+INFO: Processing embedded file 48.rcpt.pdf:
+May 29, 2019 1:32:03 PM org.apache.pdfbox.encryption.TestSymmetricKeyEncryption extractEmbeddedFile
+INFO:   size: 57501
+May 29, 2019 1:32:03 PM org.apache.pdfbox.pdmodel.PDDocument protect
+WARNING: do not call setAllSecurityToBeRemoved(true) before calling protect(), as protect() implies setAllSecurityToBeRemoved(false)
+May 29, 2019 1:32:03 PM org.apache.pdfbox.encryption.TestSymmetricKeyEncryption extractEmbeddedFile
+INFO: Processing embedded file 48.rcpt.pdf:
+May 29, 2019 1:32:03 PM org.apache.pdfbox.encryption.TestSymmetricKeyEncryption extractEmbeddedFile
+INFO:   size: 57501
+May 29, 2019 1:32:03 PM org.apache.pdfbox.rendering.PDFRenderer suggestKCMS
+INFO: Your current java version is: 1.8.0_162
+May 29, 2019 1:32:03 PM org.apache.pdfbox.rendering.PDFRenderer suggestKCMS
+INFO: To get higher rendering speed on old java 1.8 or 9 versions,
+May 29, 2019 1:32:03 PM org.apache.pdfbox.rendering.PDFRenderer suggestKCMS
+INFO:   update to the latest 1.8 or 9 version (>= 1.8.0_191 or >= 9.0.4),
+May 29, 2019 1:32:03 PM org.apache.pdfbox.rendering.PDFRenderer suggestKCMS
+INFO:   or
+May 29, 2019 1:32:03 PM org.apache.pdfbox.rendering.PDFRenderer suggestKCMS
+INFO:   use the option -Dsun.java2d.cmm=sun.java2d.cmm.kcms.KcmsServiceProvider
+May 29, 2019 1:32:03 PM org.apache.pdfbox.rendering.PDFRenderer suggestKCMS
+INFO:   or call System.setProperty("sun.java2d.cmm", "sun.java2d.cmm.kcms.KcmsServiceProvider")
+May 29, 2019 1:32:03 PM org.apache.pdfbox.pdmodel.graphics.color.PDICCBased ensureDisplayProfile
+WARNING: ICC profile is Perceptual, ignoring, treating as Display class
+May 29, 2019 1:32:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:04 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:04 PM org.apache.pdfbox.pdmodel.PDDocument protect
+WARNING: do not call setAllSecurityToBeRemoved(true) before calling protect(), as protect() implies setAllSecurityToBeRemoved(false)
+May 29, 2019 1:32:04 PM org.apache.pdfbox.pdmodel.graphics.color.PDICCBased ensureDisplayProfile
+WARNING: ICC profile is Perceptual, ignoring, treating as Display class
+May 29, 2019 1:32:05 PM org.apache.pdfbox.pdmodel.font.FileSystemFontProvider loadDiskCache
+WARNING: New fonts found, font cache will be re-built
+May 29, 2019 1:32:05 PM org.apache.pdfbox.pdmodel.font.FileSystemFontProvider <init>
+WARNING: Building on-disk font cache, this may take a while
+May 29, 2019 1:32:08 PM org.apache.pdfbox.pdmodel.font.FileSystemFontProvider <init>
+WARNING: Finished building on-disk font cache, found 685 fonts
+May 29, 2019 1:32:09 PM org.apache.pdfbox.pdmodel.PDDocument protect
+WARNING: do not call setAllSecurityToBeRemoved(true) before calling protect(), as protect() implies setAllSecurityToBeRemoved(false)
+May 29, 2019 1:32:10 PM org.apache.pdfbox.pdmodel.PDDocument protect
+WARNING: do not call setAllSecurityToBeRemoved(true) before calling protect(), as protect() implies setAllSecurityToBeRemoved(false)
+May 29, 2019 1:32:11 PM org.apache.pdfbox.pdmodel.PDDocument protect
+WARNING: do not call setAllSecurityToBeRemoved(true) before calling protect(), as protect() implies setAllSecurityToBeRemoved(false)
+May 29, 2019 1:32:12 PM org.apache.pdfbox.pdmodel.PDDocument protect
+WARNING: do not call setAllSecurityToBeRemoved(true) before calling protect(), as protect() implies setAllSecurityToBeRemoved(false)
+May 29, 2019 1:32:17 PM org.apache.pdfbox.multipdf.PDFMergerUtility appendDocument
+WARNING: Removed /IDTree from /Names dictionary, doesn't belong there
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility appendDocument
+WARNING: Removed /IDTree from /Names dictionary, doesn't belong there
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell1[0] already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell2[0] already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell3[0] already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell4[0] already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell5[0] already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell6[0] already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell7[0] already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility appendDocument
+WARNING: Removed /IDTree from /Names dictionary, doesn't belong there
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key A4_107 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Default_108 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Default_120 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Default_121 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key H1_1 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key H2_2 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key H3_3 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key H3_4 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_111 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_116 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_118 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_135 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_140 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_142 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_144 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_146 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_155 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_157 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_161 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_163 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_165 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_174 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_176 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_178 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_180 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_182 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_184 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LBody_186 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_110 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_112 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_115 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_117 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_131 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_134 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_139 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_141 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_143 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_145 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_154 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_156 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_160 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_162 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_164 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_173 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_175 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_177 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_179 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_181 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_183 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key LI_185 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key L_109 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key L_114 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key L_130 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key L_133 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key L_138 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key L_153 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key L_159 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key L_172 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_10 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_100 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_103 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_104 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_105 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_11 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_12 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_122 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_123 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_124 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_125 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_126 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_127 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_128 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_129 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_13 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_136 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_137 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_14 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_147 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_148 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_149 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_15 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_150 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_151 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_152 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_166 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_167 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_168 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_169 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_170 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_171 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_2 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_20 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_22 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_24 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_26 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_27 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_3 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_30 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_32 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_34 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_36 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_39 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_4 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_42 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_45 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_47 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_49 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_5 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_51 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_53 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_56 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_58 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_6 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_60 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_62 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_64 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_67 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_69 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_7 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_71 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_73 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_75 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_78 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_8 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_81 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_83 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_85 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_87 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_89 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_9 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_92 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_94 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_96 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Normal_98 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Pa7_106 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Pa7_119 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Sect_1 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Sect_113 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Sect_132 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Sect_158 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Superscript_102 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Superscript_37 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TBody_17 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_19 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_21 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_23 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_25 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_29 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_31 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_33 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_35 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_38 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_41 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_44 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_46 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_48 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_50 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_52 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_55 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_57 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_59 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_61 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_63 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_66 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_68 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_70 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_72 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_74 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_77 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_80 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_82 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_84 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_86 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_88 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_91 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_93 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_95 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_97 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TD_99 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TR_18 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TR_28 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TR_40 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TR_43 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TR_54 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TR_65 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TR_76 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TR_79 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key TR_90 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key Table_16 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key footer_101 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility appendDocument
+WARNING: Removed /IDTree from /Names dictionary, doesn't belong there
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key F200707 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key S118912.1 already exists in destination IDTree
+May 29, 2019 1:32:18 PM org.apache.pdfbox.multipdf.PDFMergerUtility appendDocument
+WARNING: Removed /IDTree from /Names dictionary, doesn't belong there
+May 29, 2019 1:32:19 PM org.apache.pdfbox.multipdf.PDFMergerUtility appendDocument
+WARNING: Removed /IDTree from /Names dictionary, doesn't belong there
+May 29, 2019 1:32:19 PM org.apache.pdfbox.multipdf.PDFMergerUtility appendDocument
+WARNING: Removed /IDTree from /Names dictionary, doesn't belong there
+May 29, 2019 1:32:19 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell1[0] already exists in destination IDTree
+May 29, 2019 1:32:19 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell2[0] already exists in destination IDTree
+May 29, 2019 1:32:19 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell3[0] already exists in destination IDTree
+May 29, 2019 1:32:19 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell4[0] already exists in destination IDTree
+May 29, 2019 1:32:19 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell5[0] already exists in destination IDTree
+May 29, 2019 1:32:19 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell6[0] already exists in destination IDTree
+May 29, 2019 1:32:19 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key form1[0].#subform[5].CapitalizationTable[0].HeaderRow[0].Cell7[0] already exists in destination IDTree
+May 29, 2019 1:32:20 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key S.6.196709.1 already exists in destination IDTree
+May 29, 2019 1:32:20 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key S.7.155745.1 already exists in destination IDTree
+May 29, 2019 1:32:20 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key T.6.225282 already exists in destination IDTree
+May 29, 2019 1:32:20 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeIDTree
+WARNING: key T.7.151554 already exists in destination IDTree
+May 29, 2019 1:32:20 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:20 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:20 PM org.apache.pdfbox.multipdf.PDFMergerUtility mergeFields
+INFO: Skipping non terminal field Customer
+May 29, 2019 1:32:21 PM org.apache.pdfbox.pdmodel.common.PDNumberTreeNode getValue
+WARNING: NumberTreeNode does not have "nums" nor "kids" objects.
+May 29, 2019 1:32:21 PM org.apache.pdfbox.pdmodel.PDDocument setVersion
+SEVERE: It's not allowed to downgrade the version of a pdf.
+May 29, 2019 1:32:21 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Opening: MultilineFields.pdf
+May 29, 2019 1:32:21 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Rendering: MultilineFields.pdf
+May 29, 2019 1:32:21 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Writing: /Users/margaretwalter/Desktop/Projects/PeerReview/lib/pdfbox-2.0.15/pdfbox/target/test-output/MultilineFields.pdf-1.png
+May 29, 2019 1:32:21 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:21 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:21 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:21 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Comparing: MultilineFields.pdf
+May 29, 2019 1:32:22 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+WARNING: *** TEST FAILURE *** Input and output not identical for file: MultilineFields.pdf-1.png
+May 29, 2019 1:32:22 PM org.apache.pdfbox.pdmodel.interactive.form.AppearanceGeneratorHelper setAppearanceValue
+WARNING: widget of field TextField-DefaultValue has no rectangle, no appearance stream created
+May 29, 2019 1:32:22 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Opening: AcroFormsRotation.pdf
+May 29, 2019 1:32:22 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Rendering: AcroFormsRotation.pdf
+May 29, 2019 1:32:22 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Writing: /Users/margaretwalter/Desktop/Projects/PeerReview/lib/pdfbox-2.0.15/pdfbox/target/test-output/AcroFormsRotation.pdf-1.png
+May 29, 2019 1:32:22 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Writing: /Users/margaretwalter/Desktop/Projects/PeerReview/lib/pdfbox-2.0.15/pdfbox/target/test-output/AcroFormsRotation.pdf-2.png
+May 29, 2019 1:32:22 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Comparing: AcroFormsRotation.pdf
+May 29, 2019 1:32:22 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+WARNING: *** TEST FAILURE *** Input and output not identical for file: AcroFormsRotation.pdf-2.png
+May 29, 2019 1:32:23 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+WARNING: *** TEST FAILURE *** Input and output not identical for file: AcroFormsRotation.pdf-1.png
+May 29, 2019 1:32:23 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Opening: AlignmentTests-flattened.pdf
+May 29, 2019 1:32:23 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Rendering: AlignmentTests-flattened.pdf
+May 29, 2019 1:32:23 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:23 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:23 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Writing: /Users/margaretwalter/Desktop/Projects/PeerReview/lib/pdfbox-2.0.15/pdfbox/target/test-output/AlignmentTests-flattened.pdf-1.png
+May 29, 2019 1:32:23 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Comparing: AlignmentTests-flattened.pdf
+May 29, 2019 1:32:23 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+WARNING: *** TEST FAILURE *** Input and output not identical for file: AlignmentTests-flattened.pdf-1.png
+May 29, 2019 1:32:23 PM org.apache.pdfbox.pdmodel.interactive.form.PDAcroForm buildPagesWidgetsMap
+WARNING: There has been a widget with a missing page reference. Please report to the PDFBox project
+May 29, 2019 1:32:23 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Opening: AlignmentTests-flattened-noRef.pdf
+May 29, 2019 1:32:23 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Rendering: AlignmentTests-flattened-noRef.pdf
+May 29, 2019 1:32:24 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Writing: /Users/margaretwalter/Desktop/Projects/PeerReview/lib/pdfbox-2.0.15/pdfbox/target/test-output/AlignmentTests-flattened-noRef.pdf-1.png
+May 29, 2019 1:32:24 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Comparing: AlignmentTests-flattened-noRef.pdf
+May 29, 2019 1:32:24 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+WARNING: *** TEST FAILURE *** Input and output not identical for file: AlignmentTests-flattened-noRef.pdf-1.png
+May 29, 2019 1:32:24 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:24 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Opening: AlignmentTests.pdf
+May 29, 2019 1:32:24 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Rendering: AlignmentTests.pdf
+May 29, 2019 1:32:24 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:24 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:24 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:24 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:24 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:24 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:24 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:25 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Writing: /Users/margaretwalter/Desktop/Projects/PeerReview/lib/pdfbox-2.0.15/pdfbox/target/test-output/AlignmentTests.pdf-1.png
+May 29, 2019 1:32:25 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+INFO: Comparing: AlignmentTests.pdf
+May 29, 2019 1:32:25 PM org.apache.pdfbox.rendering.TestPDFToImage doTestFile
+WARNING: *** TEST FAILURE *** Input and output not identical for file: AlignmentTests.pdf-1.png
+May 29, 2019 1:32:25 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font LiberationSans are not implemented in PDFBox and will be ignored
+May 29, 2019 1:32:25 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:25 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:25 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:26 PM org.apache.pdfbox.pdfparser.COSParser validateStreamLength
+WARNING: The end of the stream is out of range, using workaround to read the stream, stream start position: 1963, length: 79137, expected end position: 81100
+May 29, 2019 1:32:26 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font LiberationSans are not implemented in PDFBox and will be ignored
+May 29, 2019 1:32:26 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font LiberationSans are not implemented in PDFBox and will be ignored
+May 29, 2019 1:32:26 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:26 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:26 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:26 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:26 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:30 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:30 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:30 PM org.apache.pdfbox.pdmodel.graphics.color.PDICCBased ensureDisplayProfile
+WARNING: ICC profile is Perceptual, ignoring, treating as Display class
+May 29, 2019 1:32:31 PM org.apache.pdfbox.pdmodel.graphics.color.PDICCBased ensureDisplayProfile
+WARNING: ICC profile is Perceptual, ignoring, treating as Display class
+May 29, 2019 1:32:32 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:33 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:33 PM org.apache.pdfbox.cos.COSDocument finalize
+WARNING: Warning: You did not close a PDF Document
+May 29, 2019 1:32:34 PM org.apache.pdfbox.pdfparser.COSParser validateStreamLength
+WARNING: The end of the stream doesn't point to the correct offset, using workaround to read the stream, stream start position: 1670741, length: 1302, expected end position: 1672043
+May 29, 2019 1:32:34 PM org.apache.pdfbox.filter.FlateFilter decompress
+WARNING: FlateFilter: premature end of stream due to a DataFormatException
+May 29, 2019 1:32:34 PM org.apache.pdfbox.pdfparser.COSParser bfSearchForObjStreams
+WARNING: Skipped incomplete object stream:6396 0 R at 1037893
+May 29, 2019 1:32:34 PM org.apache.pdfbox.pdfparser.COSParser checkPagesDictionary
+WARNING: Removed null object COSObject{799, 0} from pages dictionary
+May 29, 2019 1:32:34 PM org.apache.pdfbox.pdfparser.COSParser checkPagesDictionary
+WARNING: Removed null object COSObject{517, 0} from pages dictionary
+May 29, 2019 1:32:34 PM org.apache.pdfbox.pdfparser.COSParser checkPagesDictionary
+WARNING: Removed null object COSObject{518, 0} from pages dictionary
+May 29, 2019 1:32:34 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+May 29, 2019 1:32:34 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font ABCDEE+Cambria,Bold are not implemented in PDFBox and will be ignored
+May 29, 2019 1:32:35 PM org.apache.pdfbox.contentstream.operator.state.SetGraphicsStateParameters process
+SEVERE: name for 'gs' operator not found in resources: /GS7
+May 29, 2019 1:32:35 PM org.apache.pdfbox.pdmodel.font.PDTrueTypeFont <init>
+WARNING: Using fallback font 'Times-Roman' for 'ABCDEE+Cambria,Bold'
+May 29, 2019 1:32:35 PM org.apache.pdfbox.pdmodel.font.PDTrueTypeFont <init>
+WARNING: Using fallback font 'Helvetica-Bold' for 'ABCDEE+Arial Narrow,BoldItalic'
+May 29, 2019 1:32:35 PM org.apache.pdfbox.pdfparser.COSParser validateStreamLength
+WARNING: The end of the stream doesn't point to the correct offset, using workaround to read the stream, stream start position: 416047, length: 88172, expected end position: 504219
+May 29, 2019 1:32:35 PM org.apache.pdfbox.pdfparser.COSParser validateStreamLength
+WARNING: The end of the stream doesn't point to the correct offset, using workaround to read the stream, stream start position: 721031, length: 45135, expected end position: 766166
+May 29, 2019 1:32:35 PM org.apache.pdfbox.pdfparser.BaseParser parseCOSArray
+WARNING: Corrupt object reference at offset 79, start offset: 77
+May 29, 2019 1:32:35 PM org.apache.pdfbox.pdfparser.BaseParser parseCOSArray
+WARNING: Corrupt object reference at offset 83, start offset: 77
+May 29, 2019 1:32:35 PM org.apache.pdfbox.pdfparser.BaseParser parseCOSArray
+WARNING: Corrupt object reference at offset 79, start offset: 77
+May 29, 2019 1:32:35 PM org.apache.pdfbox.pdfparser.BaseParser parseCOSArray
+WARNING: Corrupt object reference at offset 83, start offset: 77
+May 29, 2019 1:32:35 PM org.apache.pdfbox.pdfparser.COSParser parseFileObject
+WARNING: Object (3:0) at offset 101 does not end with 'endobj' but with ''
+May 29, 2019 1:32:35 PM org.apache.pdfbox.pdfparser.COSParser checkPagesDictionary
+WARNING: Removed null object COSObject{3, 0} from pages dictionary
+May 29, 2019 1:32:35 PM org.apache.pdfbox.pdfparser.COSParser parseCOSStream
+WARNING: The stream doesn't provide any stream length, using fallback readUntilEnd, at offset 924
+May 29, 2019 1:32:35 PM org.apache.pdfbox.pdmodel.graphics.color.PDICCBased ensureDisplayProfile
+WARNING: ICC profile is Perceptual, ignoring, treating as Display class
+May 29, 2019 1:32:35 PM org.apache.pdfbox.contentstream.PDFStreamEngine operatorException
+SEVERE: Missing XObject: Fm0
+May 29, 2019 1:32:36 PM org.apache.pdfbox.pdmodel.graphics.color.PDICCBased ensureDisplayProfile
+WARNING: ICC profile is Perceptual, ignoring, treating as Display class
+May 29, 2019 1:32:36 PM org.apache.pdfbox.pdmodel.graphics.color.PDICCBased ensureDisplayProfile
+WARNING: ICC profile is Perceptual, ignoring, treating as Display class
+May 29, 2019 1:32:37 PM org.apache.pdfbox.pdmodel.graphics.color.PDICCBased ensureDisplayProfile
+WARNING: ICC profile is Perceptual, ignoring, treating as Display class
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse sample_fonts_solidconvertor.pdf for standard test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.pdmodel.font.PDFont <init>
+WARNING: Invalid ToUnicode CMap in font Verdana
+May 29, 2019 1:32:37 PM org.apache.pdfbox.pdmodel.font.PDFont <init>
+WARNING: Invalid ToUnicode CMap in font MSReferenceSansSerif
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse sample_fonts_solidconvertor.pdf for sorted test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.pdmodel.font.PDFont <init>
+WARNING: Invalid ToUnicode CMap in font Verdana
+May 29, 2019 1:32:37 PM org.apache.pdfbox.pdmodel.font.PDFont <init>
+WARNING: Invalid ToUnicode CMap in font MSReferenceSansSerif
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse FC60_Times.pdf for standard test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse FC60_Times.pdf for sorted test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3127-RAU4G6QMOVRYBISJU7R6MOVZCRFUO7P4-VFont.pdf for standard test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3127-RAU4G6QMOVRYBISJU7R6MOVZCRFUO7P4-VFont.pdf for sorted test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-4322-Empty-ToUnicode-reduced.pdf for standard test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.pdmodel.font.PDFont <init>
+WARNING: Invalid ToUnicode CMap in font Calibri
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-4322-Empty-ToUnicode-reduced.pdf for sorted test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.pdmodel.font.PDFont <init>
+WARNING: Invalid ToUnicode CMap in font Calibri
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3062-N2MOQ7YZICIYGTPLQJAWJ4HLN6CCEMHZ-reduced.pdf for standard test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3062-N2MOQ7YZICIYGTPLQJAWJ4HLN6CCEMHZ-reduced.pdf for sorted test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3067-negativeTf.pdf for standard test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3067-negativeTf.pdf for sorted test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3123-ADSFWTRB3HBZBZKEVESVTBRZC2MNKZF5_reduced.pdf for standard test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3123-ADSFWTRB3HBZBZKEVESVTBRZC2MNKZF5_reduced.pdf for sorted test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3062-005717-p1.pdf for standard test
+May 29, 2019 1:32:37 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3062-005717-p1.pdf for sorted test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse sampleForSpec.pdf for standard test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse sampleForSpec.pdf for sorted test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse rotation.pdf for standard test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse rotation.pdf for sorted test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-2984-rotations.pdf for standard test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-2984-rotations.pdf for sorted test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3195.pdf for standard test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3195.pdf for sorted test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse cweb.pdf for standard test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for circlecopyrt (13) in font KVUGCP+CMSY10
+May 29, 2019 1:32:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for visiblespace (32) in font QEJSSK+CMTT10
+May 29, 2019 1:32:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for angbracketleft (104) in font KVUGCP+CMSY10
+May 29, 2019 1:32:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for angbracketright (105) in font KVUGCP+CMSY10
+May 29, 2019 1:32:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for negationslash (54) in font KVUGCP+CMSY10
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse cweb.pdf for sorted test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for circlecopyrt (13) in font KVUGCP+CMSY10
+May 29, 2019 1:32:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for visiblespace (32) in font QEJSSK+CMTT10
+May 29, 2019 1:32:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for angbracketleft (104) in font KVUGCP+CMSY10
+May 29, 2019 1:32:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for angbracketright (105) in font KVUGCP+CMSY10
+May 29, 2019 1:32:38 PM org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode
+WARNING: No Unicode mapping for negationslash (54) in font KVUGCP+CMSY10
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3061-092465-reduced.pdf for standard test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3061-092465-reduced.pdf for sorted test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse Liste732004001452_001_0.pdf_0_.pdf for standard test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse Liste732004001452_001_0.pdf_0_.pdf for sorted test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3044-010197-p5-ligatures.pdf for standard test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3044-010197-p5-ligatures.pdf for sorted test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3833-reduced.pdf for standard test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3833-reduced.pdf for sorted test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3025.pdf for standard test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3025.pdf for sorted test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse simple-openoffice.pdf for standard test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse simple-openoffice.pdf for sorted test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse hello3.pdf for standard test
+May 29, 2019 1:32:38 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse hello3.pdf for sorted test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3062-002207-p1.pdf for standard test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3062-002207-p1.pdf for sorted test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3498-Y5TLCWTIAE3FYDVJTV2TXRZGXLEDUNSW.pdf for standard test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font RIRMDX+TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3498-Y5TLCWTIAE3FYDVJTV2TXRZGXLEDUNSW.pdf for sorted test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.pdmodel.font.PDCIDFontType2 <init>
+INFO: OpenType Layout tables used in font RIRMDX+TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3042-003177-p2.pdf for standard test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3042-003177-p2.pdf for sorted test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3110-poems-beads-cropbox.pdf for standard test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3110-poems-beads-cropbox.pdf for sorted test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse openoffice-test-document.pdf for standard test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse openoffice-test-document.pdf for sorted test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse data-000001.pdf for standard test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse data-000001.pdf for sorted test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3110-poems-beads.pdf for standard test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3110-poems-beads.pdf for sorted test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse yaddatest.pdf for standard test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse yaddatest.pdf for sorted test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3053-reduced.pdf for standard test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3053-reduced.pdf for sorted test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3038-001033-p2.pdf for standard test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse PDFBOX-3038-001033-p2.pdf for sorted test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse BidiSample.pdf for sorted test
+May 29, 2019 1:32:39 PM org.apache.pdfbox.text.TestTextStripper doTestFile
+INFO: Preparing to parse BidiSample.pdf for standard test

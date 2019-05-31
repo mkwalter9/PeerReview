@@ -51,9 +51,11 @@ public class PrintPDF {
 
                 String pdfFileInText = tStripper.getText(document);
                 //System.out.println("Text:" + pdfFileInText);
+                document.close();
                 return pdfFileInText;
 
             } else {
+            		document.close();
             		return "";
             }	
 		} 

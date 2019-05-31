@@ -11,12 +11,10 @@ import java.util.ArrayList;
 
 
 public class Main {
-	public static void main() {
+	public static void main(String[] args) {
 		PrintPDF textLoader = new PrintPDF("CS",1);
-		System.out.println("Test 1.5");
 		List<String> texts = textLoader.readPapers();
 		int size = texts.size();
-		System.out.println(size);
 		for (String child : texts) {
 			System.out.println(child);
 		}

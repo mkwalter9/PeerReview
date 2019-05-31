@@ -22,9 +22,7 @@ public class PrintPDF {
 	public List<String> readPapers() {
 		// Iterates through folder and reads pdfs
 		List<String> texts = new ArrayList<String>();
-		System.out.println("Test 2");
 		try {
-			System.out.println(folder);
 			File[] directoryListing = folder.listFiles();
 			if (directoryListing != null) {
 				for (File child : directoryListing) {
@@ -43,7 +41,6 @@ public class PrintPDF {
 			PDDocument document = PDDocument.load(paper);
 
             document.getClass();
-            System.out.println("Test");
 
             if (!document.isEncrypted()) {
 			
@@ -56,24 +53,19 @@ public class PrintPDF {
                 //System.out.println("Text:" + pdfFileInText);
                 return pdfFileInText;
 
-//				// split by whitespace
-//                String lines[] = pdfFileInText.split("\\r?\\n");
-//                for (String line : lines) {
-//                    System.out.println(line);
-//                }
-
             } else {
-            		return "null";
+            		return "";
             }	
 		} 
 		catch(Exception e) {
+			System.out.println("Error in PrintPDF.getText");
 			System.out.println(e.getMessage());
-			return e.getMessage();
+			throw e;
 		}
 	}
 	
-	public static void main(String[] args) {
-		//System.out.println("Test");
-		return;
-	}
+//	public static void main(String[] args) {
+//		//System.out.println("Test");
+//		return;
+//	}
 }

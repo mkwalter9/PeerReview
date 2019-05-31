@@ -6,6 +6,6 @@
 	<classpathentry kind="lib" path="/Users/margaretwalter/Desktop/Projects/PeerReview/lib/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-javadoc.jar"/>
 	<classpathentry kind="lib" path="/Users/margaretwalter/Desktop/Projects/PeerReview/lib/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-models.jar"/>
 	<classpathentry kind="lib" path="/Users/margaretwalter/Desktop/Projects/PeerReview/lib/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/margaretwalter/Desktop/Projects/PeerReview/lib/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/margaretwalter/Desktop/Projects/PeerReview/lib/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2.jar" sourcepath="lib"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

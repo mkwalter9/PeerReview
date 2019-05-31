@@ -18,5 +18,8 @@ public class Main {
 		for (String child : texts) {
 			System.out.println(child);
 		}
+		
+		NLPutils annotator = new NLPutils(texts.get(0));
+		annotator.getParts();
 	}
 }
